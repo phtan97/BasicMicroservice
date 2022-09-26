@@ -3,3 +3,11 @@
 ################################################################################
 
 /Api/obj
+/Api.Products/bin/Debug/net5.0
+/Api.Products/obj
+/ApiGateway/bin/Debug/net5.0
+/ApiGateway/obj
+/IdentityServer/bin/Debug/netcoreapp3.1
+/IdentityServer/obj
+/IdentityServerAspNetIdentity/bin/Debug/netcoreapp3.1
+/IdentityServerAspNetIdentity/obj
